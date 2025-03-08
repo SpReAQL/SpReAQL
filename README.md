@@ -1,43 +1,38 @@
 # Enes Can | Web Developer
 
-I am a software developer focusing on both **backend** and **frontend** technologies in web development.  
-I build reliable and scalable systems using **PHP (Slim)** and **MySQL**, while creating modern and user-friendly interfaces with **React**. I also have basic experience in **server management** and **operating systems**.
+Web geliştirme alanında **backend** ve **frontend** teknolojilerine odaklanan bir yazılım geliştiricisiyim.  
+**PHP (Slim)** ve **MySQL** kullanarak güvenilir ve ölçeklenebilir sistemler geliştiriyor, **React** ile modern ve kullanıcı dostu arayüzler oluşturuyorum. Ayrıca **sunucu yönetimi** ve **işletim sistemleri** konusunda temel seviyede deneyimim var.
 
 ---
 
-## 🚀 Experience:
-- **E-commerce Projects**: Actively participated in the development and operational processes.
-- **Go/Jo**: Developing a project management system.
-- Constantly learning about **cybersecurity** and **network management**.
+## Deneyimler:
+- **E-ticaret Projeleri**: Geliştirme ve operasyon süreçlerinde aktif rol aldım.
+- **Go/Jo**: Proje yönetim sistemi geliştiriyorum.
+- Sürekli olarak **siber güvenlik** ve **ağ yönetimi** konularında kendimi geliştiriyorum.
 
 ---
 
-## 💻 Skills:
+## Yetenekler:
 ### Backend:
 - PHP (Slim)
 - MySQL
-- JWT Authentication
+- JWT Kimlik Doğrulama
 
 ### Frontend:
 - React
 - HTML, CSS
 
-### Other:
-- Server Management
+### Diğer:
+- Sunucu Yönetimi
 - Linux
-- Basic Python
-- Network Security
+- Temel Python
+- Ağ Güvenliği
 
 ---
 
-## 🌱 About Me:
-I am open to innovation, solution-oriented, and a good team player. I value continuous learning and self-improvement. Additionally, I am a fan of the **Purple Team**!
+## Hakkımda:
+Yeniliklere açık, çözüm odaklı ve takım çalışmasına uyumlu biriyim. Sürekli öğrenmeye ve kendimi geliştirmeye önem veriyorum. Ayrıca **Purple Team** hayranıyım.
 
 ---
 
-## 📫 Contact:
-- 📧 **Email**: [spreaql@gmail.com](mailto:spreaql@gmail.com)
-
----
-
-*Always ready to contribute to innovative projects and open-source contributions!*
+*Yenilikçi projelere ve açık kaynak katkılarına her zaman hazırım!*
