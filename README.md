@@ -1,47 +1,43 @@
-# Enes Can | Web Developer 👨‍💻
+# Enes Can | Web Developer
 
-**Web geliştirme alanında backend ve frontend teknolojilerine odaklanan bir yazılım geliştiricisiyim.**  
-**PHP (Slim)** ve **MySQL** kullanarak güvenilir ve ölçeklenebilir sistemler geliştirirken, **React** ile modern ve kullanıcı dostu arayüzler oluşturuyorum. Ayrıca **sunucu yönetimi** ve **işletim sistemleri** konusunda temel seviyede deneyimim var.
-
----
-
-## 🚀 Deneyimlerim:
-- **E-ticaret projeleri**: Geliştirme ve operasyon süreçlerinde aktif rol aldım.
-- **Go/Jo**: Proje yönetim sistemi geliştiriyorum. 
-- **Siber güvenlik ve ağ yönetimi** konularında sürekli öğreniyorum.
+I am a software developer focusing on both **backend** and **frontend** technologies in web development.  
+I build reliable and scalable systems using **PHP (Slim)** and **MySQL**, while creating modern and user-friendly interfaces with **React**. I also have basic experience in **server management** and **operating systems**.
 
 ---
 
-## 💻 Yeteneklerim:
+## 🚀 Experience:
+- **E-commerce Projects**: Actively participated in the development and operational processes.
+- **Go/Jo**: Developing a project management system.
+- Constantly learning about **cybersecurity** and **network management**.
+
+---
+
+## 💻 Skills:
 ### Backend:
 - PHP (Slim)
 - MySQL
-- JWT Kimlik Doğrulama
+- JWT Authentication
 
 ### Frontend:
 - React
 - HTML, CSS
 
-### Diğer:
-- Sunucu Yönetimi
+### Other:
+- Server Management
 - Linux
-- Temel Python
-- Ağ Güvenliği
+- Basic Python
+- Network Security
 
 ---
 
-## 🌱 Hakkımda:
-Yeniliklere açık, çözüm odaklı ve takım çalışmasına uyumlu biriyim. Sürekli öğrenmeye ve kendimi geliştirmeye önem veriyorum. Ayrıca **Mor Takım** hayranıyım!
+## 🌱 About Me:
+I am open to innovation, solution-oriented, and a good team player. I value continuous learning and self-improvement. Additionally, I am a fan of the **Purple Team**!
 
 ---
 
-## 📫 İletişim:
-- 📧 **Email**: [spreaql@gmail.com](mailto:spreaql@gmail.com)  
----
-
-### GitHub İstatistiklerim 📊:
-![Enes Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackSQR&show_icons=true&hide_title=true&count_private=true&hide=prs)
+## 📫 Contact:
+- 📧 **Email**: [spreaql@gmail.com](mailto:spreaql@gmail.com)
 
 ---
 
-*Yenilikçi projeler ve açık kaynak katkıları yapmaya her zaman hazırım!*
+*Always ready to contribute to innovative projects and open-source contributions!*
